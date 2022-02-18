@@ -1,0 +1,11 @@
+D:\Development\gen2microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\publish\Play.Catalog.Service.exe
+D:\Development\gen2microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\publish\appsettings.Development.json
+D:\Development\gen2microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\publish\appsettings.json
+D:\Development\gen2microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\publish\Play.Catalog.Service.dll
+D:\Development\gen2microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\publish\Play.Catalog.Service.deps.json
+D:\Development\gen2microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\publish\Play.Catalog.Service.runtimeconfig.json
+D:\Development\gen2microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\publish\Play.Catalog.Service.pdb
+D:\Development\gen2microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\publish\Microsoft.OpenApi.dll
+D:\Development\gen2microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\Development\gen2microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Development\gen2microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
