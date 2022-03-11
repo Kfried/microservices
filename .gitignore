@@ -9,3 +9,5 @@ Play.Catalog.Service/obj/Debug/net5.0/Play.Catalog.Service.assets.cache.LOCAL.ca
 Play.Catalog.Service/obj/Debug/net5.0/Play.Catalog.Service.assets.cache.REMOTE.cache
 Play.Catalog.Service/obj/Debug/net5.0/Play.Catalog.Service.csproj.BuildWithSkipAnalyzers
 Play.Catalog.Service/obj/Debug/net5.0/refint/Play.Catalog.Service.dll
+Play.Catalog.Service/bin/
+Play.Catalog.Service/obj/
