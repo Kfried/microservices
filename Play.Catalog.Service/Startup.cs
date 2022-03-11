@@ -16,7 +16,8 @@ namespace Play.Catalog.Service
     public class Startup
     {
         private ServiceSettings serviceSettings;
-        
+#test
+
         public IConfiguration Configuration { get; }
         public Startup(IConfiguration configuration)
         {
